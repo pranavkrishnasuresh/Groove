@@ -1,4 +1,4 @@
-# Image Classifier
+# Facial Emotion Classifier -> Spotify Playlist
 Spotify playlist generation based on facial emotion detection
 
 Identifies emotion from {happy, sad, angry, disgust, surprise, neutral, fear}
