@@ -1,9 +1,10 @@
 # Image Classifier
-This project showcases an example of utilising Flask to serve a simple webpage that interacts with an existing Keras model for image classification. 
+Spotify playlist generation based on facial emotion detection
 
-This is the codebase that was created as part of this tutorial here:
+Identifies emotion from {happy, sad, angry, disgust, surprise, neutral, fear}
 
-[![Youtube video link](http://img.youtube.com/vi/0nr6TPKlrN0/0.jpg)](http://www.youtube.com/watch?v=0nr6TPKlrN0)
+7-way categorical task
+
 
 ## Prerequisites
 Install the dependencies 
